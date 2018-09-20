@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289129078995",
+    "firebase_url": "https://udgam2k184.firebaseio.com",
+    "project_id": "udgam2k184",
+    "storage_bucket": "udgam2k184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289129078995:android:47f37f1b8e0e9edb",
+        "android_client_info": {
+          "package_name": "com.nitravangla.udgam2k18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289129078995-7eq9fjpajt3bglamfusjht89hnaiqckl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitravangla.udgam2k18",
+            "certificate_hash": "92c4ae97ad4040c3e4530ec3ce77ae5422a5983f"
+          }
+        },
+        {
+          "client_id": "289129078995-774l25d7lv7tur49m1kra3604m0kqvfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYR4FG84EojcTNejsAecmz8S1l8NqK1Og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289129078995-774l25d7lv7tur49m1kra3604m0kqvfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

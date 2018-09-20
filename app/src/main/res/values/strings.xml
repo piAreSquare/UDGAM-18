@@ -1,0 +1,723 @@
+<resources>
+    <string name="app_name">navigationBar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_gallery">gallery</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_events">event</string>
+
+
+    <string name="hdfc_bank">HDFC bank</string>
+    <string name="golden_sponser">Golden Sponser</string>
+
+
+    <string-array name="description">
+        <item> Each team consists of 4 members.
+
+        There are total 4 clues.
+
+        Time provided for finding all clues is 1 hour.
+
+        There will be two rounds. After first round top 8 teams will be selected.
+
+        Selection is based on time taken and if all clues are found in a sequence and at right place.
+
+        Maximum 32 teams can participate. Participation is based on, first come first serve.
+
+        If any team is found picking the clues of other team that team will be eliminated.
+
+        In case of argument committee decision is final.
+
+        Entry fee per team is Rs.40</item>
+
+        <item> Each participant will be given a time of 3 minutes to ponder over the given topic.
+
+    One minute time will be given for elaborating, explaining and presenting views on the given topic.
+
+    Topic will be alloted on lottery basis.
+ </item>
+        <item>
+
+    Each student artist shall be given of maximum of 5 minutes
+
+Participants may mimic sound of machines and speeches of well-known persons including SAYERS (can use sayari while Mono-Acting) etc. Including film personalities.
+
+Mimicry judgment will be based on qualities like idea, creativity of presentation, use of makeup, music  general impression.
+
+Medium of expression will be in Hindi or English.
+
+It should necessarily be cultured and pleasant piece of art.
+</item>
+
+
+        <item>
+
+   Let your intellect shine, let the rolling of brain race with every passing of minuten. introducing to you The Mixed Bag, the yet another event for the Udgam 18 .Come up and participate.
+ </item>
+        <item>
+
+
+
+    Only one entry per person is accepted.
+    No photographs, Digital arts or paintings are acceptable. Use lead pencils only to draw at the spot.
+
+    Maximum time allowed: 150minutes.
+
+    Candidates may bring their own material, if needed (Pencils of required Hardness).
+
+    The Drawing Sheet/Pencil (HB)/Eraser/Sharpener will be provided by the Organizer.
+
+    Interested person can mail his/her entry with name, roll no, and email ID to the undersigned.
+
+    The decision of juries will be the last.
+
+    No entries will be entertained after 18.04.2014
+
+    Entry Fee :Rs 20 per head
+
+</item>
+        <item>
+
+
+
+    FIRST FIVE
+
+    ROW 1, ROW 2, ROW 3
+
+    HOUSEFULL(...the jackpot)
+
+    more information will be provided at the venue(at the time of gameplay).
+
+ </item>
+        <item>
+
+
+
+    Team can be of 5 to 8 members
+
+    Drama should be based on meaningful and sensible story conveying a social message
+
+    Duration of performance should be less than 20 minutes
+
+    Judging Criteria includes concept, content ,acting and management .
+
+    Entry Fee :Rs 50 per team
+
+
+
+ </item>
+        <item>
+
+
+
+    Group registration should preferably be done online before the start of event.
+
+    Participants can paint their own imagination as there is no restriction on theme.
+
+    Participants should get their designs verified by sending scan copy of it to b160052@nitsikkim.ac.in
+
+    On spot entries are allowed but verification of design needs to be done from the event coordinator before painting on wall.
+
+    Organizers will provide materials for painting.
+
+    The wall dimensions will be informed to the teams registering for event.
+
+ </item>
+
+        <item>
+
+
+    The competition will consist a cricket match of one over(each inning).
+
+    Each team shall consist of 7 members.
+
+    Each side has to decide on who three players will bat, meaning that the loss of two wickets ends the Super Over.
+
+    There will be one free hit in each inning but can’t be taken on last ball.
+
+    The run made on the last ball will get double.
+
+    There will be league matches.
+
+        </item>
+
+        <item>
+
+
+    There must be 6 players a side.(5 players + 1 substitute)
+
+    Game will have two halves. 10 minutes each.
+
+    Unlimited Substitution will be allowed.
+
+    golas from kick off is not permitted.
+
+    Goalkeepers have only four seconds in which to play the ball, with their feet, and may not touch it again if it has been deliberately played to them by a team-mate without an opponent playing or touching it. Goalkeepers are also free to play anywhere on the pitch and send the ball beyond the halfway line.
+
+        </item>
+    </string-array>
+
+
+    <string-array name="description2">
+        <item>
+
+
+
+    There must be 5 members per teram
+
+    You need to get the items listed in the list.
+
+    All teams will be provided 90 minutes.
+
+    The team who will get the most , in the least time wins.1
+
+ </item>
+
+        <item>nitials of the plot will be given to the participant beforehand.
+
+Each participant will be given a time limit of 10 minutes to frame the story.
+
+Participants need to narrate their story at least till 3 minutes.
+
+No story should be framed in accordance to any pre-heard tale.
+
+You can carry a piece of paper and pen for convenience.
+
+Judgement will be based on how interesting your narration is and how well you end the story.
+
+ENTRY FEE: Rs.20 per team.2
+
+  </item>
+
+        <item>
+
+    There will be three rounds.
+    -Aptitute
+    -Solve the mystery.
+    -Interview
+
+    The partcipant will be judged on the basis of their Personality, Attitude, Problem Solving Skill, Logical Reasoning, and Open minded-ness.
+
+    From each round Participant will shortlisted on the basis of their performance in each round.
+
+    Interested person can mail their entries with name and roll no. to undersigned.3
+  </item>
+
+        <item>
+
+
+
+    The quizzing event is broadly divided into Screening Round and Stage Rounds.
+
+    Only team entries are eligible and a team shall consist of 3 members.
+
+    A screening round will be conducted to shortlist minimum 6 teams from the pool of registered teams, for the stage rounds. This round will consist of 60 questions and will be of 1 hour duration.
+
+    The decision of the quiz organising committee will be final and will not be subjected to any change in case.
+
+    The use of mobile or any other information retrieval system is strictly system is strictly probhited.
+
+    Replcement of any team member is not allowed after registration.
+
+    In event of tie at the end of the Stage rounds, a set of 5 questions will be asked to each team as a tiebreaker.
+
+    The structure of the stage rounds will be disclosed later.4
+
+</item>
+
+
+        <item>   Only one entry per person is accepted.
+No photographs, Digital arts or paintings are acceptable. Use lead pencils only to draw at the spot.
+
+Maximum time allowed: 150minutes.
+
+Candidates may bring their own material, if needed (Pencils of required Hardness).
+
+The Drawing Sheet/Pencil (HB)/Eraser/Sharpener will be provided by the Organizer.
+
+Interested person can mail his/her entry with name, roll no, and email ID to the undersigned.
+
+The decision of juries will be the last.
+
+No entries will be entertained after 18.04.2014.5
+ </item>
+
+
+        <item>
+
+    Each team shall consist of two members.
+
+    The competition will consist of several levels and each level will have different segments.
+
+    In the first segment each team will be given a time of 3 minutes in which that team will present and elaborate their points.
+
+    The team supposed to speak in motion will be the one to introduce the topic and elaborate their views as to why they are favouring the motion.
+
+    The team opposing the motion will be next to speak(again for 3minutes).
+
+    Next segment will be of 5 minutes of affirmations and rebuttals between the favouring and opposing teams.
+
+    In the end jury and audience will be asking questions to the debaters.
+
+    8Topics will be given a day before the event, but favour or motion will be decided few hours before the event.6
+
+ </item>
+
+
+        <item>    The competitors should approach the table, make themselves comfortable and then grip their opponent's hand. The grip should be palm to palm with the thumb knuckle visible. The competitors other hands should grip their respective hand peg.
+
+Once the referees are happy with the grip from both competitors, the contest will begin. Each competitor should attempt to pin their opponent’s arm onto the touch pad.
+
+Pressure should be in a sideways capacity to force their opponent's hand to the touch pad. Back pressure in an attempt to drag the opponent off toward the centre of the table is not allowed.7</item>
+
+        <item>
+
+
+
+    FIRST FIVE
+
+    ROW 1, ROW 2, ROW 3
+
+    HOUSEFULL(...the jackpot)
+
+    more information will be provided at the venue(at the time of gameplayy).8
+
+ </item>
+        <item>
+
+    There will be total 4 rounds.
+
+    The rounds will be revealed on the spot.
+
+    Only Hindi movie songs are allowed in any round.
+
+    No song can be repeated in the same round.
+
+    However, you can sing the same song from any of the previous rounds.
+
+    For each correct answer, you will get 10 points.
+
+    For each wrong answer or no answer if it is your turn, you will get -5 points.
+
+    If none of the participants from a team can give the correct answer, the question will be passed to the next team.
+
+    Each team will have 4 players. (with entry fee Rs. 40)
+
+    The decisions of the judges will be final.9
+</item>
+        <item>
+
+    There must be 6 players a side.(5 players + 1 substitute)
+
+    Game will have two halves. 10 minutes each.
+
+    Unlimited Substitution will be allowed.
+
+    golas from kick off is not permitted.
+
+    Goalkeepers have only four seconds in which to play the ball, with their feet, and may not touch it again if it has been deliberately played to them by a team-mate without an opponent playing or touching it. Goalkeepers are also free to play anywhere on the pitch and send the ball beyond the halfway line.
+</item>
+
+
+    </string-array>
+
+    <string-array name="description3">
+        <item>
+
+
+
+    There will be three rounds.
+    -Aptitute
+    -Solve the mystery.
+    -Interview
+
+    The partcipant will be judged on the basis of their Personality, Attitude, Problem Solving Skill, Logical Reasoning, and Open minded-ness.
+
+    From each round Participant will shortlisted on the basis of their performance in each round.
+
+    Interested person can mail their entries with name and roll no. to undersigned.
+
+ </item>
+        <item>
+
+    The quizzing event is broadly divided into Screening Round and Stage Rounds.
+
+    Only team entries are eligible and a team shall consist of 3 members.
+
+    A screening round will be conducted to shortlist minimum 6 teams from the pool of registered teams, for the stage rounds. This round will consist of 60 questions and will be of 1 hour duration.
+
+    The decision of the quiz organising committee will be final and will not be subjected to any change in case.
+
+    The use of mobile or any other information retrieval system is strictly system is strictly probhited.
+
+    Replcement of any team member is not allowed after registration.
+
+    In event of tie at the end of the Stage rounds, a set of 5 questions will be asked to each team as a tiebreaker.
+
+    The structure of the stage rounds will be disclosed later.
+   </item>
+        <item>
+
+
+
+    Game to be played individually.
+
+    There will be two rounds.
+
+    You will be given to take out the chit and you have to make advertisement on it .
+
+    The decision of judge will be based on the clarity, performance and facial expression and the decision will be final and will not subjected to any change in any case.
+
+    You will be allocated total of two minutes.First minute to prepare and another one minute to perform.
+
+    The first chit you pick will be final and you can't ask for change.
+
+    Decision of the judges will be final and binding.
+
+ </item>
+        <item>
+
+    There will be three rounds.
+    -Aptitute
+    -Solve the mystery.
+    -Interview
+
+    The partcipant will be judged on the basis of their Personality, Attitude, Problem Solving Skill, Logical Reasoning, and Open minded-ness.
+
+    From each round Participant will shortlisted on the basis of their performance in each round.
+
+    Interested person can mail their entries with name and roll no. to undersigned.
+   </item>
+        <item>   Each team consists of 8 members and 2 substitutes.
+
+The rope must be pulled underarm and nobody’s elbow must go below the knee otherwise a foul will be called.
+
+No knots or loops shall be made in the rope, nor shall it be locked across any part of the body of any member of the team.
+
+In case any team found breaking the rules would be disqualified.
+
+Both teams pull the rope, the winner being the team who manage to pull the mark on the rope closest to their opponents over the center line.
+
+Matches are often a best of 3 pull, the winner winning 2 out of the 3 pulls.
+
+Tournament will be conducted on knock-out basis.
+  </item>
+        <item>
+
+
+
+    Each team shall consist of two members.
+
+    The competition will consist of several levels and each level will have different segments.
+
+    In the first segment each team will be given a time of 3 minutes in which that team will present and elaborate their points.
+
+    The team supposed to speak in motion will be the one to introduce the topic and elaborate their views as to why they are favouring the motion.
+
+    The team opposing the motion will be next to speak(again for 3minutes).
+
+    Next segment will be of 5 minutes of affirmations and rebuttals between the favouring and opposing teams.
+
+    In the end jury and audience will be asking questions to the debaters.
+
+    8Topics will be given a day before the event, but favour or motion will be decided few hours before the event.
+
+   </item>
+        <item>
+
+
+
+    FIRST FIVE
+
+    ROW 1, ROW 2, ROW 3
+
+    HOUSEFULL(...the jackpot)
+
+    more information will be provided at the venue(at the time of gameplay).
+
+ </item>
+    </string-array>
+
+
+    <string-array name="Venue">
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: MPH</item>
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: NIT Ground</item>
+        <item>VENUE: NIT Ground</item>
+    </string-array>
+
+
+    <string-array name="Venue2">
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: NIT Ground</item>
+    </string-array>
+
+
+    <string-array name="Venue3">
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: NIT Ground</item>
+        <item>VENUE: Academics</item>
+
+        <item>VENUE: NIT Sikkim Campus</item>
+    </string-array>
+
+
+    <string-array name="Date">
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+    </string-array>
+
+
+    <string-array name="Date2">
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+
+    </string-array>
+
+
+    <string-array name="Date3">
+
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>TIME:    9AM-11AM</item>
+        <item>TIME:    11AM-12PM</item>
+        <item>TIME:    11AM-12:30PM</item>
+        <item>TIME:    2PM-2:30PM</item>
+        <item>TIME:    2PM-5PM</item>
+        <item>TIME:    4PM-5PM</item>
+        <item>TIME:    4PM-6PM</item>
+        <item>TIME:    10PM-4PM</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+    </string-array>
+
+    <string-array name="Time2">
+
+        <item>TIME:   9AM-11AM </item>
+        <item>TIME:   11AM-12:30PM</item>
+        <item>TIME:   11AM-12:30PM</item>
+        <item>TIME:   11AM-12:30PM</item>
+        <item>TIME:   2PM-5PM</item>
+        <item>TIME:   2PM-4PM</item>
+        <item>TIME:   2PM-3PM</item>
+        <item>TIME:   4PM-5PM</item>
+        <item>TIME:   3PM-5:30PM</item>
+        <item>TIME:    Yet To Be Decided</item>
+    </string-array>
+
+    <string-array name="Time3">
+
+        <item>TIME:   9AM-11AM</item>
+
+        <item>TIME:   11AM-12:30PM</item>
+        <item>TIME:   2PM-4PM</item>
+        <item>TIME:   2PM-5PM</item>
+        <item>TIME:   3PM-4:30PM</item>
+        <item>TIME:   3:30PM-5PM</item>
+        <item>TIME:   4PM-5PM</item>
+
+    </string-array>
+
+
+    <string-array name="Nu1">
+        <item>7076263915  (Rishabh Mishra)</item>
+        <item>7478293335 (Divyanshi Verma)</item>
+        <item>8972117473  (Sanyam Chauhan)</item>
+        <item>7872663667  (Diksha Soni )</item>
+        <item>8906257109 (Narbada Bhagat)</item>
+        <item> 8371034023  (Manish Kumar)</item>
+        <item>7076269748  (Nikhil Saini )</item>
+        <item>8440895941 (Pritam )</item>
+        <item>7431941029  (Vivek Kumar )</item>
+        <item>8001343949 (Ramesh Limbu.  )</item>
+    </string-array>
+
+
+    <string-array name="Nu11">
+        <item>9573930331 (N. Shiva Kumar)</item>
+        <item>7872663667  (Diksha Soni )</item>
+        <item>7063313688  (Prashant Agarwal  </item>
+        <item>7872663667  (Diksha Soni )</item>
+        <item>8906257109 (Narbada Bhagat)</item>
+        <item>7478293335  (Divyanshi Verma)</item>
+        <item>7431944193 (Aman Yadav )</item>
+        <item>8371034023  (Manish Kumar)</item>
+        <item>8016145065 (Priyanka Mishra )</item>
+        <item>8001343949 (Ramesh Limbu.  )</item>
+    </string-array>
+
+
+    <string-array name="Nu22">
+        <item>7431944267 (K. Hemant )</item>
+        <item>7076263915  (RISHABH MISHRA )</item>
+        <item>7431941029  (Vivek Kumar )</item>
+        <item>7872663667 (Mohit Dutt Mathur)</item>
+        <item>8373065298 (Soni Reshmi)</item>
+        <item>7718291219 (Mithun Singh )</item>
+        <item>8712898396 (Aksheetha )</item>
+        <item>7076455854  (Bittu Jaiswal)</item>
+        <item>8967048167  (Snehal Panchal)</item>
+        <item>9547644367 (Emmanuel Dezong Lepcha.)</item>
+    </string-array>
+
+
+    <string-array name="Nu111">
+        <item>7063313688  (Prashant Agarwal  )</item>
+        <item>7872663667  (Diksha Soni )</item>
+        <item>7076116440 (Jalpa Ghimerey)</item>
+        <item>7063313688  (Prashant Agarwal  )</item>
+        <item>8768268446 (Jitendra Kumar Ram )</item>
+        <item>7478293335  (Divyanshi Verma)</item>
+        <item> 8371034023  (Manish Kumar)</item>
+
+    </string-array>
+
+
+    <string-array name="Nu222">
+        <item>7431941029  (Vivek Kumar )</item>
+        <item>7872663667 (Mohit Dutt Mathur)</item>
+        <item>7478165929  (Prince Raj )</item>
+        <item>7431941029  (Vivek Kumar)</item>
+        <item> 8373011107 (Luit Baro)</item>
+        <item>7718291219 (Mithun Singh )</item>
+        <item>7076455854  (Bittu Jaiswal)</item>
+
+    </string-array>
+
+
+    <string-array name="Nu2">
+        <item>9641156222   (Vipashyana Sharma)</item>
+        <item>9749312062(Arupratan Gupta )</item>
+        <item>8972434913 (Aditya Shekhar )</item>
+        <item>7872663667 (Mohit Dutt Mathur)</item>
+        <item>8373065298 (Soni Reshmi)</item>
+        <item>7076455854  (Bittu Jaiswal)</item>
+        <item>7274926212   (Prasun Rajput )</item>
+        <item>8906257109 (Narbada Bhagat)</item>
+        <item>9647005345 (Rahul Meena)</item>
+        <item>9547644367 (Emmanuel Dezong Lepcha.)</item>
+    </string-array>
+
+
+    <string-array name="entry">
+        <item>Entry Fee:   Entry fee per team is Rs.40</item>
+        <item>Entry Fee:   Rs.20 per participant.</item>
+        <item>Entry Fee:   Not Decided yet</item>
+        <item>Entry Fee:   Rs.60 per team of three members.</item>
+        <item>Entry Fee:   Rs 20 per head </item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Rs 50 per team </item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Rs. 70/- per team.</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+    </string-array>
+
+    <string-array name="entry2">
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Rs.20 per team.</item>
+        <item>Entry Fee:   Rs 30 per Head</item>
+        <item>Entry Fee:   Rs.60 per team of three members.</item>
+        <item>Entry Fee:   Rs 20 per head </item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Rs. 30/- per participants.</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:  entry fee Rs. 40</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+    </string-array>
+
+
+    <string-array name="entry3">
+        <item>Entry Fee:   Rs 30 per Head</item>
+        <item>Entry Fee:   Rs 20 per Team</item>
+        <item>Entry Fee:   Rs 20</item>
+        <item>Entry Fee:   Rs.30 per Head</item>
+        <item>Entry Fee:    Rs. 70/- per team.</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Not Decided Yet.</item>
+
+    </string-array>
+
+
+    <string name="title_activity_developer">developer</string>
+
+
+    <string name="title">About Us</string>
+    <string name="latest_news">NATIONAL INSTITUTE OF TECHNOLOGY SIKKIM is one of the developing technical Institute and one of the seven NIT\'s founded by MHRD in 2010.It is declared as the Institute of National Importance by the Government of India.
+    It has been setting new benchmarks with each passing Year. Every year it produces young and skilled Engineers for the Country.</string>
+    <string name="date">19, 20, 21 April 2k18</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello People!</string>
+    <string name="slide_1_desc">Our Artist : Lalit Singh!"</string>
+
+    <string name="slide_2_title">High Voltage</string>
+    <string name="slide_2_desc">Things are getting heated this Udgam</string>
+
+    <string name="slide_3_title">Organic Udgam</string>
+    <string name="slide_3_desc">Lets us go green this Udgam</string>
+
+    <string name="slide_4_title">UDGAM 2K18 </string>
+    <string name="slide_4_desc">Udgam 2K18 welcomes you all</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="udgam_news">NIT SKM feels privileged to present its annual Cultural Fest UDGAM\'2k18.An event to rejuvenate, enjoy and also showcase our cultural diversity.It serves as a stage to the aspiring talents to enact and showcase it to the audience through numerous events spanning for 3 days. This cultural event is graced by the presence of renowned personalities of India.</string>
+    <string name="udgam_para">The fest is intended for acknowledging the potential of young technocrats and is all set to help them for exploring their skills to experience, creativity and become innovative :).</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="suresh_albela_from_kota_rajasthan_is_a_versatile_comedian_and_the_winner_of_the_great_indian_laughter_challenge_season_4_suresh_is_well_known_for_different_themes_in_his_comedy_creation_he_impressed_judges_and_viewers_by_his_creative_standing_comedy_skill">Suresh Albela from Kota, Rajasthan is a versatile comedian and the winner of The Great Indian Laughter Challenge Season-4.Suresh is well known for different themes in his comedy creation.He impressed Judges and Viewers by his creative standing comedy skill</string>
+    <string name="valmiki">Sachin Kumar Valmiki is a fantastic Singer.He is from Uttar Pradesh.He has taken a place in the heart of viewers with his melodious voice.He is one of strongest contestants and the first runner up of the singing reality show(Sa Re Ga Ma Pa-2016) and this time he is ready to win the hearts of NIT SIKKIM</string>
+
+</resources>
+
+
